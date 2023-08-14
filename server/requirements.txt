@@ -1,0 +1,5 @@
+-e /shap-e/
+ultralytics
+PIL
+opencv-python
+rembg
